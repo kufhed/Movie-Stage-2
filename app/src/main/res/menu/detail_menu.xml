@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.id.kufhed.movie.MainActivity">
+    <item
+        android:id="@+id/action_review"
+        android:orderInCategory="100"
+        android:title="@string/review"
+        app:showAsAction="always" />
+
+</menu>

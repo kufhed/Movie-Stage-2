@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_message">Oops! may be something wrongs. Please try again</string>
+    <string name="popular">Most Popular</string>
+    <string name="review">Review</string>
+    <string name="top_rate">Most Rated</string>
+    <string name="Favorite">Favorite</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="votecount">Vote Count</string>
+    <string name="nointernet">No network connection, please activate your network data or wifi</string>
+    <string name="content_authority">co.id.kufhed.movie.app</string>
+    <string name="title_activity_review">Review</string>
+</resources>

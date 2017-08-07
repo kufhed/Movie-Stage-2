@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="co.id.kufhed.movie.MainActivity">
+    <item
+        android:id="@+id/action_popular"
+        android:orderInCategory="100"
+        android:title="@string/popular"
+
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_toprated"
+        android:orderInCategory="100"
+        android:title="@string/top_rate"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_favorite"
+        android:orderInCategory="100"
+        android:title="@string/Favorite"
+        app:showAsAction="never" />
+</menu>
